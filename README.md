@@ -1,3 +1,4 @@
+# EDA - FEAture selection - Feature engineering
 1. Exploratory Data Analysis (EDA)
 
 In this step, the dataset was explored to understand its structure and quality.
